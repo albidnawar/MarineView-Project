@@ -1,0 +1,60 @@
+                                  precision    recall  f1-score   support
+
+          AtlanticSpottedDolphin     0.3544    0.9333    0.5138        30
+                     BeardedSeal     0.4412    0.6383    0.5217        47
+               Beluga WhiteWhale     0.5517    0.8000    0.6531        20
+               BottlenoseDolphin     0.5909    0.7222    0.6500        18
+        Boutu AmazonRiverDolphin     1.0000    0.6667    0.8000         3
+                    BowheadWhale     0.9179    0.9179    0.9179       195
+                  ClymeneDolphin     0.4839    0.9231    0.6349        65
+              Commerson'sDolphin     0.0000    0.0000    0.0000         0
+                   CommonDolphin     0.6093    0.8506    0.7100       154
+                  Dall'sPorpoise     0.7143    1.0000    0.8333         5
+                    DuskyDolphin     0.8421    1.0000    0.9143        16
+                FalseKillerWhale     0.8841    0.9683    0.9242        63
+                Fin FinbackWhale     0.9981    0.9981    0.9981       514
+                 FinlessPorpoise     0.0000    0.0000    0.0000         0
+                 Fraser'sDolphin     0.4333    0.9630    0.5977        54
+          Grampus Risso'sDolphin     0.4194    0.8478    0.5612        46
+                        GraySeal     0.5000    1.0000    0.6667         1
+                       GrayWhale     1.0000    1.0000    1.0000         6
+                  HarborPorpoise     0.8500    0.8947    0.8718        19
+                     HarbourSeal     0.0000    0.0000    0.0000         0
+                        HarpSeal     0.8333    0.8333    0.8333         6
+              Heaviside'sDolphin     0.2143    0.7500    0.3333         4
+                      HoodedSeal     0.5000    1.0000    0.6667         1
+                   HumpbackWhale     0.9241    0.9025    0.9132       472
+                 IrawaddyDolphin     1.0000    1.0000    1.0000         1
+            JuanFernandezFurSeal     0.1667    1.0000    0.2857         1
+                     KillerWhale     0.8651    0.9132    0.8885       288
+                     LeopardSeal     0.5556    1.0000    0.7143         5
+           Long FinnedPilotWhale     0.5920    0.7744    0.6710       133
+LongBeaked(Pacific)CommonDolphin     0.7500    0.9545    0.8400        22
+                MelonHeadedWhale     0.3800    0.9048    0.5352        21
+                      MinkeWhale     1.0000    1.0000    1.0000        18
+                         Narwhal     0.6667    0.8889    0.7619         9
+               NewZealandFurSeal     0.0000    0.0000    0.0000         0
+              NorthernRightWhale     0.4623    0.9245    0.6164        53
+       PantropicalSpottedDolphin     0.6063    0.7363    0.6650       182
+                      RibbonSeal     0.7500    0.6000    0.6667         5
+                      RingedSeal     0.5000    0.4000    0.4444         5
+                        RossSeal     0.5641    0.7333    0.6377        30
+            Rough ToothedDolphin     0.6667    0.9091    0.7692        11
+                        SeaOtter     0.0000    0.0000    0.0000         0
+ Short Finned(Pacific)PilotWhale     0.7686    0.8774    0.8194       106
+              SouthernRightWhale     0.6667    0.6667    0.6667         6
+                      SpermWhale     0.9880    0.7525    0.8543      3705
+                  SpinnerDolphin     0.5814    0.7692    0.6623        65
+                     SpottedSeal     0.3333    0.3333    0.3333         3
+                  StellerSeaLion     0.0000    0.0000    0.0000         1
+                  StripedDolphin     0.2481    0.8889    0.3879        72
+                   TucuxiDolphin     0.0000    0.0000    0.0000         1
+                          Walrus     0.6981    0.8409    0.7629        44
+                     WeddellSeal     0.5410    0.7674    0.6346        43
+               WestIndianManatee     0.6316    1.0000    0.7742        12
+             White beakedDolphin     0.2121    0.9130    0.3443        23
+              White sidedDolphin     0.8370    0.9506    0.8902        81
+
+                        accuracy                         0.8142      6685
+                       macro avg     0.5573    0.7428    0.6137      6685
+                    weighted avg     0.8880    0.8142    0.8341      6685

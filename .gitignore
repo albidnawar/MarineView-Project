@@ -1,0 +1,16 @@
+# Ignore everything by default
+/*
+
+# Allow only these directories
+!/scripts/
+!/reports/
+!/checkpoints/
+
+# Allow top-level files we want to keep
+!/.gitignore
+!/README.md
+
+# Inside allowed dirs, you may still want to ignore heavy intermediates
+# (uncomment as needed)
+# /reports/*.tmp
+# /checkpoints/**/*.log
